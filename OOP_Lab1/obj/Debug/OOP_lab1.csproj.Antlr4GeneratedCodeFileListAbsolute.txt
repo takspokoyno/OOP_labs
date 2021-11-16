@@ -1,0 +1,6 @@
+D:\Приложения\GitHub\OOP_labs\OOP_Lab1\obj\Debug\OOP_lab1Lexer.cs
+D:\Приложения\GitHub\OOP_labs\OOP_Lab1\obj\Debug\OOP_lab1Parser.cs
+D:\Приложения\GitHub\OOP_labs\OOP_Lab1\obj\Debug\OOP_lab1Listener.cs
+D:\Приложения\GitHub\OOP_labs\OOP_Lab1\obj\Debug\OOP_lab1BaseListener.cs
+D:\Приложения\GitHub\OOP_labs\OOP_Lab1\obj\Debug\OOP_lab1Visitor.cs
+D:\Приложения\GitHub\OOP_labs\OOP_Lab1\obj\Debug\OOP_lab1BaseVisitor.cs
