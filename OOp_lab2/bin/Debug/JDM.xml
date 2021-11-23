@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<JDMDataBase>
+	<drive_unit DRIVE_UNIT="RWD">
+		<masterpiece 
+			BRAND ="Toyota"
+			MODEL ="Supra A80"
+			ENGINE ="2JZ-GTE"
+		    YEAR ="1998"
+			MAX_SPEED="250 km\h"
+			PRICE ="40k $">
+		</masterpiece>
+		<masterpiece
+			BRAND ="Honda"
+			MODEL ="RX-7"
+			ENGINE ="150PS"
+		    YEAR ="1978"
+			MAX_SPEED="230 km\h"
+			PRICE ="37k $">
+		</masterpiece>
+		<masterpiece
+			BRAND ="Nissan"
+			MODEL ="Silvia S15"
+			ENGINE ="SR20DET"
+		    YEAR ="1999"
+			MAX_SPEED="235 km\h"
+			PRICE ="15k $">
+		</masterpiece>
+		<masterpiece
+			BRAND ="Toyota"
+			MODEL ="MR2"
+			ENGINE ="3S-GTE"
+		    YEAR ="1990"
+			MAX_SPEED="225 km\h"
+			PRICE ="8k $">
+		</masterpiece>
+		<masterpiece
+			BRAND ="Honda"
+			MODEL ="S2000"
+			ENGINE ="F20C"
+		    YEAR ="1999"
+			MAX_SPEED="239 km\h"
+			PRICE ="21k $">
+		</masterpiece>
+		<masterpiece
+			BRAND ="Toyota"
+			MODEL ="Corolla AE86"
+			ENGINE ="4A-GE"
+		    YEAR ="1986"
+			MAX_SPEED="195 km\h"
+			PRICE ="12k $">
+		</masterpiece>
+	</drive_unit>
+	<drive_unit DRIVE_UNIT="AWD">
+		<masterpiece 
+			BRAND ="Nissan"
+			MODEL ="GTR R-34 Skyline"
+			ENGINE ="RB26DETT I6"
+		    YEAR ="1999"
+			MAX_SPEED="250 km\h"		 
+			PRICE ="50k $">
+		</masterpiece>
+		<masterpiece 
+			BRAND ="Mitsubishi"
+			MODEL ="Lancer Evolution VII"
+			ENGINE ="4G63T"
+		    YEAR ="2001"
+			MAX_SPEED="253 km\h"
+			PRICE ="30k $">
+		</masterpiece>
+		<masterpiece
+			BRAND ="Honda"
+			MODEL ="NSX"
+			ENGINE ="C32B V6"
+		    YEAR ="1990"
+			MAX_SPEED="270 km\h"
+			PRICE ="120k $">
+		</masterpiece>
+		<masterpiece 
+			BRAND ="Nissan"
+			MODEL ="GTR R-32 Skyline"
+			ENGINE ="RB26DETT I6"
+		    YEAR ="1989"
+			MAX_SPEED="253 km\h"		 
+			PRICE ="45k $">
+		</masterpiece>
+	</drive_unit>
+</JDMDataBase>

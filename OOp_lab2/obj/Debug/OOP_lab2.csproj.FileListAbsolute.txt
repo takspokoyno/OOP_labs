@@ -1,0 +1,10 @@
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\bin\Debug\OOp_lab2.exe.config
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\bin\Debug\OOp_lab2.exe
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\bin\Debug\OOp_lab2.pdb
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOP_lab2.csprojAssemblyReference.cache
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOp_lab2.JDM_Search.resources
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOp_lab2.Properties.Resources.resources
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOP_lab2.csproj.GenerateResource.cache
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOP_lab2.csproj.CoreCompileInputs.cache
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOp_lab2.exe
+D:\Приложения\GitHub\OOP_Labs\OOp_lab2\obj\Debug\OOp_lab2.pdb
